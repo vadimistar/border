@@ -1,0 +1,9 @@
+name: BorderPlugin
+version: '${project.version}'
+main: com.gmail.vadimistar.Border.BorderPlugin
+api-version: 1.16
+authors: [ Vadimistar ]
+
+commands:
+  border:
+    description: Run Border minigame
